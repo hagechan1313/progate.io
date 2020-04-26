@@ -24,7 +24,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://prog-8.com/images/html/advanced/top.png);
+  background-image: url("top-image.png");
   background-size: cover;
   color: white;
   text-align: center;
@@ -146,7 +146,7 @@ header {
 
 .lesson {
   float: left;
-  width: 25%;
+  width: 33%;
 }
 
 .lesson-icon {
